@@ -1,2 +1,2 @@
 # Weather-App
-<a href="[https://dice-game-e3242.web.app/](https://gownerreedus.github.io/Weather-App/)" title="Weather-App" rel="nofollow">Weather-App Website Link</a>
+<a href="https://gownerreedus.github.io/Weather-App/" target="_blank">https://gownerreedus.github.io/Weather-App/</a>
